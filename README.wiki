@@ -1,14 +1,8 @@
-<h1>电子书总目录 (频繁更新)</h1>
+<h1>电子书总目录</h1>
 
 ----
 
 = 下载须知 及 格式说明 =
-
-<h2>更新通知</h2>
-
-这里汇总了俺收藏的各类电子书（不断增加中）。俺每隔几个月会在博客上通知大伙儿，近期更新了哪些书。俺博客的网址是：[https://program-think.blogspot.com/]
-
-因为俺博客在【墙外】，并且长期遭到 GFW 封锁，建议用博客阅读器（比如 Feedly）进行订阅，以获取电子书更新的通知。博客的订阅地址是：[https://feeds2.feedburner.com/programthink]
 
 <h2>下载说明</h2>
 
@@ -25,27 +19,11 @@
 * 它不依赖任何服务器，也就没有任何审查
 * 它支持【免翻墙】进行同步（具体如何操作，参见下面的说明）
 
-<h3>关于“BT Sync / Resilio Sync”的补充说明</h3>
+<h3>关于 Resilio Sync 的补充说明</h3>
 
-首选，你需要安装 BTSync（ResilioSync）软件。它的【官网】下载链接是：[https://www.getsync.com/]
+首选，你需要安装 Resilio Sync 软件。
 
-要使用 BT Sync（Resilio Sync）同步电子书，你需要在主界面上添加相应的密钥（密钥写在本页面【每个大类】的标题下方）。关于 BT Sync 的扫盲教程，请参见“[https://program-think.blogspot.com/2015/01/BitTorrent-Sync.html 这篇博文]”。
-
-BT Sync 从“1.4 版本”一直到“目前最新版本”，都可以用来同步俺的电子书。早期的 1.4.x 版本支持【DHT 功能】，可以在墙内【免翻墙】使用。2.0 之后的版本【不】再支持 DHT，无法享受这一好处。
-
-（关于 DHT 功能如何开启，请翻墙打开“[https://program-think.blogspot.com/2017/08/GFW-Resilio-Sync.html 这篇博文]”）
-
-<h3>关于“微软网盘”的补充说明</h3>
-
-* 微软网盘支持批量下载，可以把某个目录的电子书压缩成 zip 格式一起下载。具体操作请仔细看网盘界面。
-* 微软网盘的 Web 页面需要依赖 Java Script 脚本，如果你的浏览器禁用了 JavaScript 会导致无法下载。
-* 微软网盘的服务器在【墙外】，有时候可能会被 GFW 封杀。如果你无法打开微软网盘的页面，请尝试【翻墙】。
-
-<h3>其它和“下载”相关问题</h3>
-
-下载或阅读过程中，如果还碰到其它问题搞不定，可以使用 GitHub 的 issue 给俺反馈。
-
-使用 issue 的规范参见[https://github.com/programthink/books/issues/1 这里]。
+要使用 Resilio Sync 同步电子书，你需要在主界面上添加相应的密钥（密钥写在本页面【每个大类】的标题下方）。
 
 <h2>电子书格式说明</h2>
 
@@ -99,13 +77,9 @@ HTML 格式的电子书会有多个文件，为了方便下载，压缩打包成
 
 VirusTotal 隶属 Google 旗下，是全球最大的在线查毒引擎，也最权威。俺写过一篇[https://program-think.blogspot.com/2020/03/VirusTotal-Tricks.html 扫盲教程]，介绍该网站的使用。
 
-<h3>其它与“格式”相关问题</h3>
-
-如果碰到其它跟“格式”有关的问题，你搞不定（比如某本书无法打开），可以使用 GitHub 的 issue 给俺反馈。使用 issue 的规范参见[https://github.com/programthink/books/issues/1 这里]。
-
 <h2>如何阅读书籍</h2>
 
-考虑到很多网友不善于阅读书籍， '''俺强烈推荐大伙儿看一下《如何阅读一本书》''' （[https://program-think.blogspot.com/2013/04/how-to-read-book.html 书评＆内容纲要]、[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1250 下载地址]）。此书传授了【阅读书籍的技巧】，非常有价值。
+考虑到很多网友不善于阅读书籍， '''俺强烈推荐大伙儿看一下《如何阅读一本书》''' （[https://program-think.blogspot.com/2013/04/how-to-read-book.html 书评＆内容纲要]。此书传授了【阅读书籍的技巧】，非常有价值。
 
 ----
 
@@ -115,15 +89,11 @@ VirusTotal 隶属 Google 旗下，是全球最大的在线查毒引擎，也最�
 
 B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V
 
-（BT Sync 上的内容，大约1到2星期更新一次）
-
 ----
 
 = 1 政治 =
 
 '''【网盘】'''
-
-[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!742 微软网盘]
 
 BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法，参见页面开头的“网盘下载须知”）
 
@@ -1401,8 +1371,6 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 
 '''【网盘】'''
 
-[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!761 微软网盘]
-
 BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法，参见页面开头的“网盘下载须知”）
 
 == 2.1 通俗读物 ==
@@ -1558,8 +1526,6 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 = 3 历史 =
 
 '''【网盘】'''
-
-[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!997 微软网盘]
 
 BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法，参见页面开头的“网盘下载须知”）
 
@@ -1829,8 +1795,6 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 
 '''【网盘】'''
 
-[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!998 微软网盘]
-
 BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法，参见页面开头的“网盘下载须知”）
 
 
@@ -2036,8 +2000,6 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 
 '''【网盘】'''
 
-[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!763 微软网盘]
-
 BT Sync 密钥：B3WNBTAAFFAODFR6FQ3E3L5BBSJAFNBSJ （此密钥的使用方法，参见页面开头的“网盘下载须知”）
 
 {|
@@ -2061,8 +2023,6 @@ BT Sync 密钥：B3WNBTAAFFAODFR6FQ3E3L5BBSJAFNBSJ （此密钥的使用方法�
 = 6 社会学 =
 
 '''【网盘】'''
-
-[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1008 微软网盘]
 
 BT Sync 密钥：BZR4TTYHT25QWUIE6YNMAKWUGBHKSGLC6 （此密钥的使用方法，参见页面开头的“网盘下载须知”）
 
@@ -2111,8 +2071,6 @@ BT Sync 密钥：BZR4TTYHT25QWUIE6YNMAKWUGBHKSGLC6 （此密钥的使用方法�
 = 7 文艺 =
 
 '''【网盘】'''
-
-[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!775 微软网盘]
 
 BT Sync 密钥：BMBB5YLBIJJAE5H6TP27OS7YCEUKCYHZK （此密钥的使用方法，参见页面开头的“网盘下载须知”）
 
@@ -2181,8 +2139,6 @@ BT Sync 密钥：BMBB5YLBIJJAE5H6TP27OS7YCEUKCYHZK （此密钥的使用方法�
 = 8 哲学 =
 
 '''【网盘】'''
-
-[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1001 微软网盘]
 
 BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法，参见页面开头的“网盘下载须知”）
 
@@ -2417,8 +2373,6 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 = 9 科普 =
 
 '''【网盘】'''
-
-[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1002 微软网盘]
 
 BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法，参见页面开头的“网盘下载须知”）
 
@@ -2796,8 +2750,6 @@ BT Sync 密钥：BKKORLE67ZDUHGHVWAVSRK3N5I7BXLCED （此密钥的使用方法�
 
 '''【网盘】'''
 
-[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!999 微软网盘]
-
 BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法，参见页面开头的“网盘下载须知”）
 
 == 10.1 军事理论 ==
@@ -3079,8 +3031,6 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 （IT领域的发展太快，导致书籍的生命周期变短。所以俺尽量挑选那些生命周期比较长的电子书。）
 
 '''【网盘】'''
-
-[https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1000 微软网盘]
 
 BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法，参见页面开头的“网盘下载须知”）
 
